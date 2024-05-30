@@ -1,46 +1,62 @@
-# Getting Started with Create React App
+# Eplay
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O projeto **Eplay** é um site de venda de jogos que oferece uma experiência completa para os usuários interessados em adquirir novos jogos online. Desenvolvido utilizando tecnologias modernas, o Eplay apresenta uma página inicial dinâmica, categorias bem definidas, e destaca novidades e promoções para os clientes.
 
-## Available Scripts
+## Tecnologias Utilizadas
 
-In the project directory, you can run:
+- **TypeScript e React**: Desenvolvimento da arquitetura e da interface do usuário do site para garantir uma experiência de usuário fluida e responsiva.
+- **React Router DOM**: Implementação de navegação entre as diferentes seções do site para proporcionar uma experiência de navegação suave.
+- **Redux**: Gerenciamento do estado global da aplicação, garantindo uma comunicação eficiente entre os componentes.
+- **Styled Components**: Estilização dos componentes para criar uma interface visualmente atraente e coesa.
+- **ESLint e Prettier**: Implementação de boas práticas de codificação para garantir a qualidade e a consistência do código fonte.
 
-### `npm start`
+## Link de Acesso
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Acesse o projeto através do link: [Eplay](https://eplay-ecru.vercel.app)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Como Rodar na Própria Máquina
 
-### `npm test`
+Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Scripts Disponíveis
 
-### `npm run build`
+No diretório do projeto, você pode executar:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### `npm start`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Executa o aplicativo no modo de desenvolvimento.\
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+A página será recarregada se você fizer edições.\
+Você também verá quaisquer erros de lint no console.
 
-### `npm run eject`
+#### `npm test`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Inicia o executor de testes no modo de observação interativo.\
+Veja a seção sobre [execução de testes](https://facebook.github.io/create-react-app/docs/running-tests) para mais informações.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### `npm run build`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Compila o aplicativo para produção na pasta `build`.\
+Ele agrupa corretamente o React no modo de produção e otimiza a construção para o melhor desempenho.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+A compilação é minificada e os nomes dos arquivos incluem os hashes.\
+Seu aplicativo está pronto para ser implantado!
 
-## Learn More
+Veja a seção sobre [implantação](https://facebook.github.io/create-react-app/docs/deployment) para mais informações.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### `npm run eject`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Nota: esta é uma operação sem retorno. Uma vez que você `eject`, você não pode voltar!**
+
+Se você não estiver satisfeito com a ferramenta de construção e as escolhas de configuração, você pode `eject` a qualquer momento. Este comando removerá a única dependência de compilação do seu projeto.
+
+Em vez disso, ele copiará todos os arquivos de configuração e as dependências transitivas (webpack, Babel, ESLint, etc) diretamente para o seu projeto, para que você tenha controle total sobre eles. Todos os comandos, exceto `eject`, ainda funcionarão, mas eles apontarão para os scripts copiados para que você possa modificá-los. Neste ponto, você está por sua conta.
+
+Você nunca tem que usar `eject`. O conjunto de recursos selecionado é adequado para pequenos e médios deployments, e você não deve se sentir obrigado a usar este recurso. No entanto, entendemos que essa ferramenta não seria útil se você não pudesse personalizá-la quando estivesse pronto para isso.
+
+## Saiba Mais
+
+Você pode aprender mais na [documentação do Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
+
+Para aprender React, confira a [documentação do React](https://reactjs.org/).
